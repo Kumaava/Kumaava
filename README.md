@@ -28,11 +28,9 @@
 
 - **[LivabilityIndex](https://livabilityindex.in)** - India's pincode-level real estate intelligence platform. 400+ data points per pincode across 300+ pincodes in top 10 cities. Agentic chatbot and MCP server for natural-language data access.
 
-- **[CA-desk](https://carrinandstone.com)** - AI-native practice management for Indian CA firms. Document intelligence, compliance tracking, and client management. In beta with paying customers.
-
-- **[LaunchBloc](https://launchbloc.com)** - GTM and launch infrastructure for B2B ventures.
-
 - **[C&S Capital](https://carrinandstoneadvisory.com)** - Parent holding and advisory entity. Quantitative finance and AI.
+
+- **[AprilTax](https://getapril.in/)** - Compliance simplified and managed for Ecom Sellers. 
 
 ---
 
